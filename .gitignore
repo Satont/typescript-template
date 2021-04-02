@@ -7,4 +7,4 @@ test.ts
 test.js
 logs
 .env*
-!!.env.example
+!.env.example
